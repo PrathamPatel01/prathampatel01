@@ -44,13 +44,6 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
 </p>
 
 ---
-<h3 align="center">📈 Sample Data Analytics Chart</h3>
-<p align="center">
-  <img src="assets/data-heatmap.png" alt="Data Analytics Heatmap" width="80%" />
-</p>
-
-
-
 
 
 ---
