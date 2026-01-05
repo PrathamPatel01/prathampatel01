@@ -44,11 +44,11 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
 </p>
 
 ---
-
-<h3 align="center">📊 Data Analytics Heatmap</h3>
+<h3 align="center">📈 Sample Data Analytics Chart</h3>
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'matrix',data:{datasets:[{label:'Random Data',data:[[1,1,10],[1,2,15],[1,3,7],[2,1,5],[2,2,20],[2,3,8],[3,1,10],[3,2,4],[3,3,12]],backgroundColor:'rgba(0,123,255,0.6)'}]}}" alt="Random Heatmap" width="100%" />
+  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['ML','Python','Cloud','DB'],datasets:[{label:'Skill Level',data:[90,80,70,85],backgroundColor:['#1f77b4','#ff7f0e','#2ca02c','#d62728']}]}}" alt="Bar Chart" width="80%" />
 </p>
+
 
 
 
