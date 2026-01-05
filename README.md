@@ -45,10 +45,11 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
 
 ---
 
-<h3 align="center">📊 GitHub Contributions Heatmap</h3>
+<h3 align="center">📊 Data Analytics Heatmap</h3>
 <p align="center">
-  <img src="https://ghchart.rshah.org/PrathamPatel01" alt="Pratham Patel's GitHub Chart" width="100%" />
+  <img src="https://quickchart.io/chart?c={type:'matrix',data:{datasets:[{label:'Random Data',data:[[1,1,10],[1,2,15],[1,3,7],[2,1,5],[2,2,20],[2,3,8],[3,1,10],[3,2,4],[3,3,12]],backgroundColor:'rgba(0,123,255,0.6)'}]}}" alt="Random Heatmap" width="100%" />
 </p>
+
 
 
 ---
