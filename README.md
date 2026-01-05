@@ -46,8 +46,9 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
 ---
 <h3 align="center">📈 Sample Data Analytics Chart</h3>
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['ML','Python','Cloud','DB'],datasets:[{label:'Skill Level',data:[90,80,70,85],backgroundColor:['#1f77b4','#ff7f0e','#2ca02c','#d62728']}]}}" alt="Bar Chart" width="80%" />
+  <img src="assets/data-heatmap.png" alt="Data Analytics Heatmap" width="80%" />
 </p>
+
 
 
 
