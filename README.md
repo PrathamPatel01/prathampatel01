@@ -19,7 +19,7 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
   <a href="https://linkedin.com/in/pratham-kumar-patel-292541245" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://x.com/Pratham_patel01" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
