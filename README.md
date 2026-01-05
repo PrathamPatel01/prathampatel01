@@ -46,6 +46,3 @@
 </p>
 
 ---
-
-## ⚡ Fun Fact
-I love combining **creative animations** with **frontend development** to make web apps more interactive 🎨
