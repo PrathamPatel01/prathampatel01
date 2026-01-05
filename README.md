@@ -47,8 +47,9 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathampatel01&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampatel01&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathamPatel01&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamPatel01&layout=compact&theme=radical" alt="Top Languages" width="49%" />
 </p>
+
 
 ---
