@@ -14,9 +14,9 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
 ## ⚡ Annoying Button Zone ⚡
 
 <p align="center">
-  [![Can't Catch Me!](https://img.shields.io/badge/Click%20Me-😈-red?style=for-the-badge)](https://prathampatel01.github.io/annoyinButton)
-  [![Try Me!](https://img.shields.io/badge/Tap%20Me-💥-orange?style=for-the-badge)](https://prathampatel01.github.io/annoyingButton)
-  [![You Can't!](https://img.shields.io/badge/Impossible-😱-purple?style=for-the-badge)](https://prathampatel01.github.io/annoyingButton)
+  [![Can't Catch Me!](https://img.shields.io/badge/Click%20Me-😈-red?style=for-the-badge)](https://impossible-button-mu.vercel.app/)
+  [![Try Me!](https://img.shields.io/badge/Tap%20Me-💥-orange?style=for-the-badge)](https://impossible-button-mu.vercel.app/)
+  [![You Can't!](https://img.shields.io/badge/Impossible-😱-purple?style=for-the-badge)](https://impossible-button-mu.vercel.app/)
 </p>
 
 <p align="center">
@@ -26,17 +26,6 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
 <p align="center">
 💡 Tip: Hover your mouse, try to click… it’s impossible 😈
 </p>
-
-
-## ⚠️ Click Me! (Annoying Button)
-
-<p align="center">
-  <a href="https://prathampatel01.github.io/annoying-button/" target="_blank">
-    <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Annoying Button GIF" width="150"/>
-  </a>
-</p>
-
-> Try clicking the button 😈
 
 ---
 
