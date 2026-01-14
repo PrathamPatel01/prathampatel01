@@ -14,9 +14,9 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
 ## ⚡ Annoying Button Zone ⚡
 
 <p align="center">
-  [![Can't Catch Me!](https://img.shields.io/badge/Click%20Me-😈-red?style=for-the-badge)](https://prathampatel01.github.io/annoying-button)
-  [![Try Me!](https://img.shields.io/badge/Tap%20Me-💥-orange?style=for-the-badge)](https://prathampatel01.github.io/annoying-button)
-  [![You Can't!](https://img.shields.io/badge/Impossible-😱-purple?style=for-the-badge)](https://prathampatel01.github.io/annoying-button)
+  [![Can't Catch Me!](https://img.shields.io/badge/Click%20Me-😈-red?style=for-the-badge)](https://prathampatel01.github.io/annoyinButton)
+  [![Try Me!](https://img.shields.io/badge/Tap%20Me-💥-orange?style=for-the-badge)](https://prathampatel01.github.io/annoyingButton)
+  [![You Can't!](https://img.shields.io/badge/Impossible-😱-purple?style=for-the-badge)](https://prathampatel01.github.io/annoyingButton)
 </p>
 
 <p align="center">
