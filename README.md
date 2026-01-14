@@ -12,8 +12,6 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
 ---
 ## 🚀 Cosmic Animation Zone 🚀
 
-<p align="center">
-
 <!-- Rocket flying right -->
 <marquee direction="right" scrollamount="6">
   🚀 🌕 🌟 🛸 👽
@@ -29,7 +27,8 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
   🌠 🌟 ☄️ 🌌 🌕
 </marquee>
 
-</p>
+💡 Tip: Watch the cosmic parade of rockets, aliens, and stars! ✨
+
 
 <p align="center">
 💡 Tip: Watch the cosmic parade of rockets, aliens, and stars! ✨
