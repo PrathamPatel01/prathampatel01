@@ -10,31 +10,6 @@
 I graduated with a Bachelor's in Computer Science Engineering from Universal College of Engineering. I am currently pursuing a Master’s in **Machine Learning and Data Analytics** at **Hochschule Aalen, Germany**, exploring this exciting field while staying hands-on with web development. Previously, I worked as a **Backend SDE**, building end-to-end projects and delivering complete software solutions.
 
 ---
-## 🚀 Cosmic Animation Zone 🚀
-
-<!-- Rocket flying right -->
-<marquee direction="right" scrollamount="6">
-  🚀 🌕 🌟 🛸 👽
-</marquee>
-
-<!-- Alien spaceship flying left -->
-<marquee direction="left" scrollamount="8">
-  👾 🪐 ☄️ 🌌 🌠
-</marquee>
-
-<!-- Shooting stars flying right -->
-<marquee direction="right" scrollamount="4">
-  🌠 🌟 ☄️ 🌌 🌕
-</marquee>
-
-💡 Tip: Watch the cosmic parade of rockets, aliens, and stars! ✨
-
-
-<p align="center">
-💡 Tip: Watch the cosmic parade of rockets, aliens, and stars! ✨
-</p>
-
----
 
 ## 📫 Contact Me
 <p align="center">
