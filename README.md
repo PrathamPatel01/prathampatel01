@@ -7,7 +7,19 @@
 ---
 
 ## 👨‍💻 About Me
-I graduated with a Bachelor's in Computer Science Engineering from Universal College of Engineering. I am currently pursuing a Master’s in **Machine Learning and Data Analytics** at **Hochschule Aalen, Germany**, exploring this exciting field while staying hands-on with web development.Previously, I worked as a **Backend SDE**, building end-to-end projects and delivering complete software solutions.
+I graduated with a Bachelor's in Computer Science Engineering from Universal College of Engineering. I am currently pursuing a Master’s in **Machine Learning and Data Analytics** at **Hochschule Aalen, Germany**, exploring this exciting field while staying hands-on with web development. Previously, I worked as a **Backend SDE**, building end-to-end projects and delivering complete software solutions.
+
+---
+
+## ⚠️ Click Me! (Annoying Button)
+
+<p align="center">
+  <a href="https://prathampatel01.github.io/annoying-button/" target="_blank">
+    <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Annoying Button GIF" width="150"/>
+  </a>
+</p>
+
+> Try clicking the button 😈
 
 ---
 
@@ -42,9 +54,3 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
 </p>
-
-
----
-
-
----
