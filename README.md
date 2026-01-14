@@ -10,18 +10,28 @@
 I graduated with a Bachelor's in Computer Science Engineering from Universal College of Engineering. I am currently pursuing a Master’s in **Machine Learning and Data Analytics** at **Hochschule Aalen, Germany**, exploring this exciting field while staying hands-on with web development. Previously, I worked as a **Backend SDE**, building end-to-end projects and delivering complete software solutions.
 
 ---
+## 🚀 Space Dodging Button Zone 🚀
+
 <p align="center">
-  <a href="https://impossible-button-mu.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Click%20Me-😈-red?style=for-the-badge" alt="Can't Catch Me!"/>
-  </a>
+  [![Can't Catch Me!](https://img.shields.io/badge/Click%20Me-🚀-red?style=for-the-badge)](https://impossible-button-mu.vercel.app/)
+  [![Try Me!](https://img.shields.io/badge/Tap%20Me-🌌-orange?style=for-the-badge)](https://impossible-button-mu.vercel.app/)
+  [![You Can't!](https://img.shields.io/badge/Impossible-👾-purple?style=for-the-badge)](https://impossible-button-mu.vercel.app/)
+</p>
 
-  <a href="https://impossible-button-mu.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Tap%20Me-💥-orange?style=for-the-badge" alt="Try Me!"/>
-  </a>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="150" alt="Dodging Rocket"/>
+</p>
 
-  <a href="https://impossible-button-mu.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Impossible-😱-purple?style=for-the-badge" alt="You Can't!"/>
-  </a>
+<p align="center">
+💡 Tip: Try clicking the rocket… it’s dodging you! 😈
+</p>
+
+<marquee behavior="alternate" scrollamount="8" style="margin-top:10px;">
+🌑 🌟 🌠 ☄️ 🪐 👽 🚀 🌌 🌙 🌟 ☄️
+</marquee>
+
+<p align="center">
+✨ Floating through the stars while dodging clicks! ✨
 </p>
 
 ---
