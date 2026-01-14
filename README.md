@@ -10,21 +10,18 @@
 I graduated with a Bachelor's in Computer Science Engineering from Universal College of Engineering. I am currently pursuing a Master’s in **Machine Learning and Data Analytics** at **Hochschule Aalen, Germany**, exploring this exciting field while staying hands-on with web development. Previously, I worked as a **Backend SDE**, building end-to-end projects and delivering complete software solutions.
 
 ---
-
-## ⚡ Annoying Button Zone ⚡
-
 <p align="center">
-  [![Can't Catch Me!](https://img.shields.io/badge/Click%20Me-😈-red?style=for-the-badge)](https://impossible-button-mu.vercel.app/)
-  [![Try Me!](https://img.shields.io/badge/Tap%20Me-💥-orange?style=for-the-badge)](https://impossible-button-mu.vercel.app/)
-  [![You Can't!](https://img.shields.io/badge/Impossible-😱-purple?style=for-the-badge)](https://impossible-button-mu.vercel.app/)
-</p>
+  <a href="https://impossible-button-mu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20Me-😈-red?style=for-the-badge" alt="Can't Catch Me!"/>
+  </a>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150" alt="dodging button"/>
-</p>
+  <a href="https://impossible-button-mu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Tap%20Me-💥-orange?style=for-the-badge" alt="Try Me!"/>
+  </a>
 
-<p align="center">
-💡 Tip: Hover your mouse, try to click… it’s impossible 😈
+  <a href="https://impossible-button-mu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Impossible-😱-purple?style=for-the-badge" alt="You Can't!"/>
+  </a>
 </p>
 
 ---
