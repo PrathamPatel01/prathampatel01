@@ -10,28 +10,24 @@
 I graduated with a Bachelor's in Computer Science Engineering from Universal College of Engineering. I am currently pursuing a Master’s in **Machine Learning and Data Analytics** at **Hochschule Aalen, Germany**, exploring this exciting field while staying hands-on with web development. Previously, I worked as a **Backend SDE**, building end-to-end projects and delivering complete software solutions.
 
 ---
-## 🚀 Space Dodging Button Zone 🚀
+## 🎨 Animation Zone 🎨
 
 <p align="center">
-  [![Can't Catch Me!](https://img.shields.io/badge/Click%20Me-🚀-red?style=for-the-badge)](https://impossible-button-mu.vercel.app/)
-  [![Try Me!](https://img.shields.io/badge/Tap%20Me-🌌-orange?style=for-the-badge)](https://impossible-button-mu.vercel.app/)
-  [![You Can't!](https://img.shields.io/badge/Impossible-👾-purple?style=for-the-badge)](https://impossible-button-mu.vercel.app/)
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="150" alt="Dodging Rocket"/>
-</p>
-
-<p align="center">
-💡 Tip: Try clicking the rocket… it’s dodging you! 😈
-</p>
-
-<marquee behavior="alternate" scrollamount="8" style="margin-top:10px;">
-🌑 🌟 🌠 ☄️ 🪐 👽 🚀 🌌 🌙 🌟 ☄️
+<marquee direction="right" scrollamount="6">
+  <img src="https://raw.githubusercontent.com/PrathamPatel01/assets/main/diver.png" alt="Diver" height="80">
 </marquee>
 
-<p align="center">
-✨ Floating through the stars while dodging clicks! ✨
+<marquee direction="left" scrollamount="8">
+  <img src="https://raw.githubusercontent.com/PrathamPatel01/assets/main/fish1.png" alt="Fish1" height="60">
+  <img src="https://raw.githubusercontent.com/PrathamPatel01/assets/main/fish2.png" alt="Fish2" height="60">
+</marquee>
+
+<marquee direction="right" scrollamount="4">
+  <img src="https://raw.githubusercontent.com/PrathamPatel01/assets/main/fish3.png" alt="Fish3" height="70">
+  <img src="https://raw.githubusercontent.com/PrathamPatel01/assets/main/fish4.png" alt="Fish4" height="70">
+</marquee>
+
 </p>
 
 ---
