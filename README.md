@@ -12,34 +12,8 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
 ---
 
 
-## 😎 Fun Zone
-
-<p align="center">
-💻👨‍💻🚀🔥✨⚡🤖💡🎯🎉
-</p>
-
-<p align="center">
-<pre>
-╔═════════════════════════╗
-║  Hi, I'm Pratham Patel  ║
-║  Backend Dev & ML Enth. ║
-╚═════════════════════════╝
-</pre>
-</p>
-
-<p align="center">
-<pre>
-   (\_/)
-   ( •_•)  Hi there!
-  / >🌟 Keep coding!
-</pre>
-</p>
-
-<p align="center">
-💡 Tips:
-- Hover your eyes on these emojis 😏
-- Imagine them wiggling when you scroll 😜
-</p>
+[![Click Me!](https://img.shields.io/badge/Click%20Me-😈-red?style=for-the-badge)](https://github.com/prathampatel01)
+[![Hack Me!](https://img.shields.io/badge/Hack%20Me-💥-orange?style=for-the-badge)](https://github.com/prathampatel01)
 
 
 ## ⚠️ Click Me! (Annoying Button)
