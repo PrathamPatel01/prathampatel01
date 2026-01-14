@@ -11,9 +11,21 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
 
 ---
 
+## ⚡ Annoying Button Zone ⚡
 
-[![Click Me!](https://img.shields.io/badge/Click%20Me-😈-red?style=for-the-badge)](https://github.com/prathampatel01)
-[![Hack Me!](https://img.shields.io/badge/Hack%20Me-💥-orange?style=for-the-badge)](https://github.com/prathampatel01)
+<p align="center">
+  [![Can't Catch Me!](https://img.shields.io/badge/Click%20Me-😈-red?style=for-the-badge)](https://prathampatel01.github.io/annoying-button)
+  [![Try Me!](https://img.shields.io/badge/Tap%20Me-💥-orange?style=for-the-badge)](https://prathampatel01.github.io/annoying-button)
+  [![You Can't!](https://img.shields.io/badge/Impossible-😱-purple?style=for-the-badge)](https://prathampatel01.github.io/annoying-button)
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150" alt="dodging button"/>
+</p>
+
+<p align="center">
+💡 Tip: Hover your mouse, try to click… it’s impossible 😈
+</p>
 
 
 ## ⚠️ Click Me! (Annoying Button)
