@@ -25,10 +25,12 @@ I graduated with a Bachelor's in Computer Science Engineering from Universal Col
 </p>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prathampatel01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prathampatel01&theme=dark&hide_border=false)<br/>
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=prathampatel01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=prathampatel01&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathampatel01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🛠 Languages & Tools
 <p align="center">
